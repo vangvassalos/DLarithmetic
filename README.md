@@ -5,3 +5,4 @@ Research material on arithmetic formats, schemes, etc., focused on Convolutional
 - **2017_Koaster_NIPS :** Flexpoint: An Adaptive Numerical Format for Efficient Training of Deep Neural Networks
 - **2018_Johnson :** Rethinking Floating Point fo Deep Learning
 - **2018_Popescu_ARITH :** Flexpoint: Predictive Numerics for Deep Learning
+- **2018_Drumond :** Training DNNs with Hybrid Block Floating Point

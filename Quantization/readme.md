@@ -3,7 +3,7 @@ Research material on arithmetic formats, schemes, etc., focused on Convolutional
 ## Quantization Schemes
 - **2015_Chen_ICML**			: Compressing Neural Networks with the Hashing Trick
 - **2015_Courbariaux_ICML**	: BinaryConnect: Training Deep Neural Networks with binary weights during propagations
-- **2016_Courbariaux_Arxiv** 	: Binarized Neural Networks: Training Neural Networks with Weights and Activations Constrained to +1 or −1
+- **2016_Courbariaux_Arxiv** 	: Binarized Neural Networks: Training NNs with Weights and Activations Constrained to +1 or −1
 - **2016_Gysel_ICLR**			: Hardware-oriented Approximation of Convolutional Neural Networks
 - **2016_Li_NIPS**			: Ternary Weight Networks
 - **2016_Lin_Arxiv2**			: Fixed Point Quantization of Deep Convolutional Networks

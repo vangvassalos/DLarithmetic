@@ -28,7 +28,7 @@ Research material on arithmetic formats, schemes, etc., focused on Convolutional
 - **2018_Beluja_Arxiv**		: No Multiplication? No Floating Point? No Problem! Training Networks for Efficient Inference
 - **2018_Ding_ASPDAC** 		: Quantized deep neural networks for energy efficient hardware-based inference
 - **2018_Guo_Arxiv**			: A Survey on Methods and Theories of Quantized Neural Networks
-- **2018_Gyzel_ToNNLS**		: Ristretto: A Framework for Empirical Study of Resource-Efficient Inference in Convolutional Neural Networks
+- **2018_Gyzel_ToNNLS**		: [Ristretto](http://lepsucd.com/?page_id=621): A Framework for Empirical Study of Resource-Efficient Inference in Convolutional Neural Networks
 - **2018_Jacob_CVPR**			: Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference
 - **2018_Raghuraman_WP**		: Quantizing deep convolutional networks for efficient inference: A whitepaper from Google
 - **2018_Yang_ISCAS**			: Bit Error Tolerance of a CIFAR-10 Binarized Convolutional Neural Network Processor

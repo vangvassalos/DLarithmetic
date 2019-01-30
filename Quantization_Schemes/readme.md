@@ -24,6 +24,7 @@ Research material on arithmetic formats, schemes, etc., focused on Convolutional
 - **2018_Jacob_CVPR**		    : Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference
 - **2018_Raghuraman_WP**	    : Quantizing deep convolutional networks for efficient inference: A whitepaper from Google
 - **2018_Wang_VLSI**            : An Energy-Efficient Architecture for Binary Weight Convolutional Neural Networks
+- **2018_Xue_ACCV**             : Hardware Aware Softmax Approximation for Deep Neural Networks", Asian Conference on Computer Vision (ACCV)
 - **2018_Yang_ISCAS**		    : Bit Error Tolerance of a CIFAR-10 Binarized Convolutional Neural Network Processor
 - **2018_Zhang_ECCV**		    : LQ-Nets: Learned Quantization for Highly Accurate and Compact Deep Neural Networks
 - **2018_Zhou_AAAI**            : Adaptive Quantization for Deep Neural Network
